@@ -1,0 +1,37 @@
+﻿<div class="calculator-with-history">
+    <form class="calc" id="calcForm">
+        <div class="form-group">
+            <input type="text" class="form-control calc__result-field" readonly>
+        </div>
+        <div class="calc__body">
+            <div class="calc__nums">
+                <button class="btn btn-secondary btn-reset js--btn-reset">C</button>
+                <button class="btn bg-white js--btn-add-res">7</button>
+                <button class="btn bg-white js--btn-add-res">8</button>
+                <button class="btn bg-white js--btn-add-res">9</button>
+                <button class="btn bg-white js--btn-add-res">4</button>
+                <button class="btn bg-white js--btn-add-res">5</button>
+                <button class="btn bg-white js--btn-add-res">6</button>
+                <button class="btn bg-white js--btn-add-res">1</button>
+                <button class="btn bg-white js--btn-add-res">2</button>
+                <button class="btn bg-white js--btn-add-res">3</button>
+                <button class="btn bg-white btn-zero js--btn-add-res">0</button>
+                <button class="btn bg-white js--btn-add-res">.</button>
+            </div>
+            <div class="calc__operators">
+                <button class="btn btn-warning js--btn-add-res">+</button>
+                <button class="btn btn-warning js--btn-add-res">-</button>
+                <button class="btn btn-warning js--btn-add-res">/</button>
+                <button class="btn btn-warning js--btn-add-res">*</button>
+                <button type="submit" class="btn bg-white js--btn-calc">=</button>
+            </div>
+        </div>
+    </form>
+    <div class="history">
+        <h2>History</h2>
+        <ul id="history-list">
+        </ul>
+    </div>
+</div>
+<script src="~/js/calculatorLogic.js"></script>
+

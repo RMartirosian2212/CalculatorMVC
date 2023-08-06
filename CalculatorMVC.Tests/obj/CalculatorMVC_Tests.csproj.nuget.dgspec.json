@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC.Tests\\CalculatorMVC_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC.Tests\\CalculatorMVC_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC.Tests\\CalculatorMVC_Tests.csproj",
+        "projectName": "CalculatorMVC_Tests",
+        "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC.Tests\\CalculatorMVC_Tests.csproj",
+        "packagesPath": "C:\\Users\\rmart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rmart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\CalculatorMVC.csproj": {
+                "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\CalculatorMVC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\CalculatorMVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\CalculatorMVC.csproj",
+        "projectName": "CalculatorMVC",
+        "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\CalculatorMVC.csproj",
+        "packagesPath": "C:\\Users\\rmart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rmart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\CalculatorMVC_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\CalculatorMVC_DataAccess.csproj"
+              },
+              "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj": {
+                "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\CalculatorMVC_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\CalculatorMVC_DataAccess.csproj",
+        "projectName": "CalculatorMVC_DataAccess",
+        "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\CalculatorMVC_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\rmart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rmart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj": {
+                "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj",
+        "projectName": "CalculatorMVC_Models",
+        "projectPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\CalculatorMVC_Models.csproj",
+        "packagesPath": "C:\\Users\\rmart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rmart\\source\\repos\\CalculatorMVC\\CalculatorMVC_Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rmart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

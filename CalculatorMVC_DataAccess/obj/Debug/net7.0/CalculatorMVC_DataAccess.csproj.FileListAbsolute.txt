@@ -1,0 +1,17 @@
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_DataAccess.deps.json
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_DataAccess.runtimeconfig.json
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_DataAccess.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_DataAccess.pdb
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_Models.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\bin\Debug\net7.0\CalculatorMVC_Models.pdb
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.csproj.AssemblyReference.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.AssemblyInfoInputs.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.AssemblyInfo.cs
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.csproj.CopyComplete
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\refint\CalculatorMVC_DataAccess.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.pdb
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\CalculatorMVC_DataAccess.genruntimeconfig.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_DataAccess\obj\Debug\net7.0\ref\CalculatorMVC_DataAccess.dll

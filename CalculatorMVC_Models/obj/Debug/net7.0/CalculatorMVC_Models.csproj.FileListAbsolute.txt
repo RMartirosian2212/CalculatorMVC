@@ -1,0 +1,12 @@
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\bin\Debug\net7.0\CalculatorMVC_Models.deps.json
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\bin\Debug\net7.0\CalculatorMVC_Models.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\bin\Debug\net7.0\CalculatorMVC_Models.pdb
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.csproj.AssemblyReference.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.AssemblyInfoInputs.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.AssemblyInfo.cs
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.csproj.CoreCompileInputs.cache
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\refint\CalculatorMVC_Models.dll
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\CalculatorMVC_Models.pdb
+C:\Users\rmart\source\repos\CalculatorMVC\CalculatorMVC_Models\obj\Debug\net7.0\ref\CalculatorMVC_Models.dll
